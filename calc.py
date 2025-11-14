@@ -9,7 +9,7 @@ if op == "+":
 elif op == "-":
     print("Result =", int(a - b))
 elif op == "*":
-    print("Result =", a * b)
+    print("Result =", int(a * b))
 elif op == "/":
     print("Result =", a / b)
 else:
